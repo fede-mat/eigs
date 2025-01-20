@@ -3,7 +3,7 @@
 #### Work in Progress
 
 #### 
-Initially conceived as a challenge in my Algorithm and
+Initially conceived as a challenge in our Algorithm and
 Parallel Computing course, this project’s goal was to compute the maximum and minimum
 eigenvalues of a matrix using the Power Iteration method in C++. Motivated by the
 importance of eigenvalues in numerical linear algebra, my co-author and I expanded the
