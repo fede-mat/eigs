@@ -11,4 +11,4 @@ and I expanded the
 scope to compute all eigenvalues, delving into both object-oriented programming and
 advanced numerical techniques comparing a random approach to a deterministic one
 
-Co Author Leo Marzioli
+Co Author Leo Marzoli
